@@ -144,7 +144,6 @@ a {
 /*  min-width: 500px; */
   margin: auto;
 }
-
 footer div {
   height: 100%;
   font-family: 'Vollkorn', Open sans;
@@ -152,7 +151,7 @@ footer div {
   display: flex;
   align-content: center;
   padding: 10px 20px;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.75);
 }
 @media all and (max-width:700px) {
   main {
